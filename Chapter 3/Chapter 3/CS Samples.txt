@@ -1,0 +1,85 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
+int[] myArray; // declares an array of int of any size
+myNumberedArray = new int[10]; // number is a 10-elements array
+myNumberedArray = new int[15]; // number is now a 15-elements array
+
+int[,,] 3DArray = new int[3,4,5];
+Int[] numbers = new int[]{1,2,3,4,5};
+
+Int[] numbers = new int[]{1,2,3,4,5,6,7,8,9};
+numbers[4] = 12;
+
+
+List<int> myList = new List<int>();
+myList.Add(1);
+myList.Add(2);
+myList.Add(3);
+myList.Add(4);
+
+int i = 0;
+while(i++ < 10)
+{
+// do something
+}
+//instantiate the array
+int[] numberArray = new int[]{1,2,3};
+
+//instantiate the List
+List<string> numberList = new List<string>();
+
+//Add elements to the list
+numberList.Add("a");
+numberList.Add("b");
+numberList.Add("c");
+numberList.Add("d");
+numberList.Add("e");
+
+//iterate through the elements of the array
+for(int i = 0; i < numberArray.Length;i++)
+{
+//print out the value
+Console.WriteLine(numberArray[i]);
+}
+
+//iterate through the elements of the list in the same manner
+for(int i = 0; i < numberList.Count;i++)
+{
+//print out the value
+Console.WriteLine(numberList[i]);
+} 
+
+int[] numbers = { 1, 2, 4, 6, 7, 9, -3, -1, 0 };
+
+foreach (int i in numbers)
+{
+    Console.Write("{0} ", i);
+}
+// Output: 1 2 4 6 7 9 -3 -1 0
+
+class exampleException : System.Exception{}
+// … do something
+throw new exampleException();
+try
+{
+    // Do something and throw different type of exceptions.
+}
+catch (CustomException ce)
+{
+    ...
+}
+catch (AnotherCustomException ace)
+{
+    ...
+}
+catch (Exception ex)
+{
+    //the generic exception
+}
+

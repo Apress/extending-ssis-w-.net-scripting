@@ -1,0 +1,15 @@
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication\MySsisApplicationVB\obj\Debug\MySsisApplicationVB.vbprojResolveAssemblyReference.cache
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication\MySsisApplicationVB\obj\Debug\MySsisApplicationVB.Form1.resources
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication\MySsisApplicationVB\obj\Debug\MySsisApplicationVB.Resources.resources
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication\MySsisApplicationVB\obj\Debug\MySsisApplicationVB.vbproj.GenerateResource.Cache
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication\MySsisApplicationVB\bin\Debug\MySsisApplicationVB.exe.config
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication\MySsisApplicationVB\bin\Debug\MySsisApplicationVB.exe
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication\MySsisApplicationVB\bin\Debug\MySsisApplicationVB.pdb
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication\MySsisApplicationVB\bin\Debug\MySsisApplicationVB.xml
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication\MySsisApplicationVB\obj\Debug\MySsisApplicationVB.exe
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication\MySsisApplicationVB\obj\Debug\MySsisApplicationVB.xml
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication\MySsisApplicationVB\obj\Debug\MySsisApplicationVB.pdb
+D:\Chapter 21\MySsisApplication\MySsisApplicationVB\bin\Debug\MySsisApplicationVB.exe.config
+D:\Chapter 21\MySsisApplication\MySsisApplicationVB\obj\Debug\MySsisApplicationVB.exe
+D:\Chapter 21\MySsisApplication\MySsisApplicationVB\obj\Debug\MySsisApplicationVB.xml
+D:\Chapter 21\MySsisApplication\MySsisApplicationVB\obj\Debug\MySsisApplicationVB.pdb

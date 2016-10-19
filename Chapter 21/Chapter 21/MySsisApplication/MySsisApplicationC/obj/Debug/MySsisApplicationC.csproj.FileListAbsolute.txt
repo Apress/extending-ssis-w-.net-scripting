@@ -1,0 +1,12 @@
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication\MySsisApplicationC\obj\Debug\MySsisApplicationC.csprojResolveAssemblyReference.cache
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication\MySsisApplicationC\obj\Debug\MySsisApplicationC.Form1.resources
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication\MySsisApplicationC\obj\Debug\MySsisApplicationC.Properties.Resources.resources
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication\MySsisApplicationC\obj\Debug\MySsisApplicationC.csproj.GenerateResource.Cache
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication\MySsisApplicationC\bin\Debug\MySsisApplicationC.exe
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication\MySsisApplicationC\bin\Debug\MySsisApplicationC.pdb
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication\MySsisApplicationC\obj\Debug\MySsisApplicationC.exe
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication\MySsisApplicationC\obj\Debug\MySsisApplicationC.pdb
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication\MySsisApplicationC\bin\Debug\MySsisApplicationC.exe.config
+D:\Chapter 21\MySsisApplication\MySsisApplicationC\bin\Debug\MySsisApplicationC.exe.config
+D:\Chapter 21\MySsisApplication\MySsisApplicationC\obj\Debug\MySsisApplicationC.exe
+D:\Chapter 21\MySsisApplication\MySsisApplicationC\obj\Debug\MySsisApplicationC.pdb

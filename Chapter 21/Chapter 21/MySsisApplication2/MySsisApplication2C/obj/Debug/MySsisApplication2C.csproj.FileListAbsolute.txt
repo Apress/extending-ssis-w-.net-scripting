@@ -1,0 +1,10 @@
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication2\MySsisApplication2C\bin\Debug\MySsisApplication2C.exe
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication2\MySsisApplication2C\bin\Debug\MySsisApplication2C.pdb
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication2\MySsisApplication2C\obj\Debug\MySsisApplication2C.csprojResolveAssemblyReference.cache
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication2\MySsisApplication2C\obj\Debug\MySsisApplication2C.Form1.resources
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication2\MySsisApplication2C\obj\Debug\MySsisApplication2C.Properties.Resources.resources
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication2\MySsisApplication2C\obj\Debug\MySsisApplication2C.csproj.GenerateResource.Cache
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication2\MySsisApplication2C\obj\Debug\MySsisApplication2C.exe
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication2\MySsisApplication2C\obj\Debug\MySsisApplication2C.pdb
+D:\Chapter 21\MySsisApplication2\MySsisApplication2C\obj\Debug\MySsisApplication2C.exe
+D:\Chapter 21\MySsisApplication2\MySsisApplication2C\obj\Debug\MySsisApplication2C.pdb

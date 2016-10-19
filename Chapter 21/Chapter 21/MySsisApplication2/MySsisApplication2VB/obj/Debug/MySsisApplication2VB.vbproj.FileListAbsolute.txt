@@ -1,0 +1,13 @@
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication2VB\bin\Debug\MySsisApplication2VB.exe
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication2VB\bin\Debug\MySsisApplication2VB.pdb
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication2VB\bin\Debug\MySsisApplication2VB.xml
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication2VB\obj\Debug\MySsisApplication2VB.vbprojResolveAssemblyReference.cache
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication2VB\obj\Debug\MySsisApplication2VB.Form1.resources
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication2VB\obj\Debug\MySsisApplication2VB.Resources.resources
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication2VB\obj\Debug\MySsisApplication2VB.vbproj.GenerateResource.Cache
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication2VB\obj\Debug\MySsisApplication2VB.exe
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication2VB\obj\Debug\MySsisApplication2VB.xml
+C:\Users\jvanrossum\OneDrive\Documenten\Extending SSIS with .Net\02_Code\2012\Extending SSIS with .NET\Chapter 21\MySsisApplication2VB\obj\Debug\MySsisApplication2VB.pdb
+D:\Chapter 21\MySsisApplication2\MySsisApplication2VB\obj\Debug\MySsisApplication2VB.exe
+D:\Chapter 21\MySsisApplication2\MySsisApplication2VB\obj\Debug\MySsisApplication2VB.xml
+D:\Chapter 21\MySsisApplication2\MySsisApplication2VB\obj\Debug\MySsisApplication2VB.pdb

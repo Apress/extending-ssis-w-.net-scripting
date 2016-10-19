@@ -1,0 +1,73 @@
+﻿Import System;
+Import System.Collections.Generic;
+Import System.Data;
+Import System.Linq;
+Import System.Text;
+Import System.Threading.Tasks;
+Dim myArray as int[];
+
+Dim anArray As Integer(,,) = New Integer(2, 3, 4) {}
+Dim numbers As Int() = New Integer() {1, 2, 3, 4, 5}
+
+Dim numbers As Int() = New Integer() {1, 2, 3, 4, 5, 6, 7, 8, 9}
+numbers(4) = 12
+
+Dim myList As New List(Of Integer)()
+myList.Add(1)
+myList.Add(2)
+myList.Add(3)
+myList.Add(4)
+
+Dim index As Integer = 0
+While index <= 10
+    Debug.Write(index.ToString & " ")
+    index += 1
+End While
+
+'instantiate the array
+Dim numberArray As Integer() = New Integer() {1, 2, 3}
+
+'instantiate the List
+Dim numberList As New List(Of String)()
+
+'Add elements to the list
+numberList.Add("a")
+numberList.Add("b")
+numberList.Add("c")
+numberList.Add("d")
+numberList.Add("e")
+
+'iterate through the elements of the array
+For i As Integer = 0 To numberArray.Length - 1
+	'print out the value
+	Console.WriteLine(numberArray(i))
+Next
+
+'iterate through the elements of the list in the same manner
+For i As Integer = 0 To numberList.Count - 1
+	'print out the value
+	Console.WriteLine(numberList(i))
+Next
+
+Dim numbers As Integer() = {1, 2, 4, 6, 7, 9, -3, -1, 0}
+
+For Each i As Integer In numbers
+	Console.Write("{0} ", i)
+Next
+' Output: 1 2 4 6 7 9 -3 -1 0
+
+Private Class exampleException	Inherits System.Exception
+End Class
+' … do something
+Throw New exampleException()
+
+Try
+' Do something and throw different type of exceptions.
+Catch ce As CustomException
+'do something
+Catch ace As AnotherCustomException
+' do somerhing
+Catch ex As Exception
+'the generic exception
+
+End Try
